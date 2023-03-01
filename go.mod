@@ -1,4 +1,4 @@
-module BloomFilter
+module github.com/fx-zpy/BloomFilter
 
 go 1.17
 
